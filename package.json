@@ -2,7 +2,7 @@
   "name": "react-markdown-native",
   "version": "1.0.0",
   "description": "Render Markdown as React native components",
-  "main": "index.js",
+  "main": "src/Markdown.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
