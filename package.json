@@ -1,6 +1,6 @@
 {
   "name": "react-markdown-native",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Render Markdown as React native components",
   "main": "src/Markdown.js",
   "scripts": {
@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/mohebifar/react-markdown-native#readme",
   "dependencies": {
-    "commonmark": "^0.25.1",
-    "commonmark-react-renderer": "^4.1.4"
+    "commonmark": "^0.24.0",
+    "commonmark-react-renderer": "^4.1.1"
   }
 }
