@@ -1,5 +1,5 @@
 # react-markdown-native
-Render Markdown as React native components. The code is heavily inspired by [react-markdown](https://github.com/rexxars/react-markdown) attempting to render as **react native** components.
+Render Markdown as React native components. The code is heavily inspired by [react-markdown](https://github.com/rexxars/react-markdown) attempting to render a markdown as **react native** components.
 
 # Install
 ```
